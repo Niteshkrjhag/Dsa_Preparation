@@ -1,0 +1,2 @@
+Q)https://leetcode.com/problems/max-consecutive-ones-iii/solutions/5775180/easy-to-understand-sliding-window-solution-for-longest-subarray-of-1-s-after-k-flips/?envType=study-plan-v2&envId=leetcode-75
+solution=>https://leetcode.com/problems/max-consecutive-ones-iii/solutions/5775180/easy-to-understand-sliding-window-solution-for-longest-subarray-of-1-s-after-k-flips
